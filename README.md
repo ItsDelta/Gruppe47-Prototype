@@ -2,8 +2,8 @@
 
 
 
-main.py
-Combined both Mainscreen and history into one.
+main.py : The prototype
+
 
 
 
